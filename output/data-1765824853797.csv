@@ -1,0 +1,41 @@
+"id","title","authors","price","rating"
+1,"97 Things Every Data Engineer Should Know","Tobias Macey",NULL,NULL
+2,"Fundamentals of Data Engineering","Joe Reis, Matt Housley",NULL,NULL
+3,"Introduction to Data Engineering","Dr. RVS Praveen	",NULL,NULL
+4,"Data Engineering Best Practices","Richard J. Schiller, David Larochelle",NULL,NULL
+5,"The Art of Data Engineering: Building AI-Driven Pipelines and Intelligent Systems","Muneer Ahmed Salamkar",NULL,NULL
+6,"Data Engineering with Scala and Spark","Eric Tome, Rupam Bhattacharjee, David Radford",NULL,NULL
+7,"Data Engineering with dbt","Roberto Zagni",NULL,NULL
+8,"Google Cloud Platform for Data Engineering","Alasdair Gilchrist",NULL,NULL
+9,"Data Engineering for Beginners","Chisom Nwokwu",NULL,NULL
+10,"Data Engineering","Yupo Chan, John Talburt, Terry M. Talley",NULL,NULL
+11,"Ultimate Data Engineering with Databricks: Develop Scalable Data Pipelines Using Data Engineering's Core Tenets Such as Delta Tables, Ingestion, Transformation, Security, and Scalability","Mayank Malhotra",NULL,NULL
+12,"Data Engineering and Data Science","Kukatlapalli Pradeep Kumar, Aynur Unal, Vinay Jha Pillai, Hari Murthy, M. Niranjanamurthy",NULL,NULL
+13,"Google Professional Data Engineer","Jason Hoffman",NULL,NULL
+14,"Data Engineering Design Patterns","Amit Kulkarni, Santosh Hegde",NULL,NULL
+15,"Data Engineering Design Patterns","Bartosz Konieczny",NULL,NULL
+16,"Requirements Engineering: Foundation for Software Quality","Daniel Mendez, Ana Moreira",NULL,NULL
+17,"Ultimate Data Engineering with Databricks","Mayank Malhotra",NULL,NULL
+18,"Data Engineering","Phil Gilberts",NULL,NULL
+19,"Complete Data Engineering in 8 Hours","QuickTechie | A career growth machine",NULL,NULL
+20,"Fundamentals of Data Engineering Essential Guide","Versatile Reads",NULL,NULL
+21,"97 Things Every Data Engineer Should Know","Tobias Macey",NULL,NULL
+22,"Fundamentals of Data Engineering","Joe Reis, Matt Housley",NULL,NULL
+23,"Introduction to Data Engineering","Dr. RVS Praveen	",NULL,NULL
+24,"Data Engineering Best Practices","Richard J. Schiller, David Larochelle",NULL,NULL
+25,"The Art of Data Engineering: Building AI-Driven Pipelines and Intelligent Systems","Muneer Ahmed Salamkar",NULL,NULL
+26,"Data Engineering with Scala and Spark","Eric Tome, Rupam Bhattacharjee, David Radford",NULL,NULL
+27,"Data Engineering with dbt","Roberto Zagni",NULL,NULL
+28,"Google Cloud Platform for Data Engineering","Alasdair Gilchrist",NULL,NULL
+29,"Data Engineering for Beginners","Chisom Nwokwu",NULL,NULL
+30,"Data Engineering","Yupo Chan, John Talburt, Terry M. Talley",NULL,NULL
+31,"Ultimate Data Engineering with Databricks: Develop Scalable Data Pipelines Using Data Engineering's Core Tenets Such as Delta Tables, Ingestion, Transformation, Security, and Scalability","Mayank Malhotra",NULL,NULL
+32,"Data Engineering and Data Science","Kukatlapalli Pradeep Kumar, Aynur Unal, Vinay Jha Pillai, Hari Murthy, M. Niranjanamurthy",NULL,NULL
+33,"Google Professional Data Engineer","Jason Hoffman",NULL,NULL
+34,"Data Engineering Design Patterns","Amit Kulkarni, Santosh Hegde",NULL,NULL
+35,"Data Engineering Design Patterns","Bartosz Konieczny",NULL,NULL
+36,"Requirements Engineering: Foundation for Software Quality","Daniel Mendez, Ana Moreira",NULL,NULL
+37,"Ultimate Data Engineering with Databricks","Mayank Malhotra",NULL,NULL
+38,"Data Engineering","Phil Gilberts",NULL,NULL
+39,"Complete Data Engineering in 8 Hours","QuickTechie | A career growth machine",NULL,NULL
+40,"Fundamentals of Data Engineering Essential Guide","Versatile Reads",NULL,NULL
