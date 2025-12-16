@@ -1,3 +1,6 @@
 .vscode/
 .env
+log/
 .plugins/
+__pycache__/
+logs/
