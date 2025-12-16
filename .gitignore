@@ -1,5 +1,3 @@
 .vscode/
 .env
-log/
 .plugins/
-.dags/__pycache__/
